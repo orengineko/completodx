@@ -7,6 +7,9 @@ Completo Dx is a GUI for YT-DLP made entire on Visual Basic 6 (VB6) and can run 
 # Can i download Completo Dx for free?
 Absolutely, it's no cost!
 
+# FIRST RUN!!!: 
+You must download YT-DLP (https://github.com/yt-dlp/yt-dlp) and FFMPEG (https://www.ffmpeg.org/) IN THE SAME folder as Completo Dx.exe, otherwise Completo Dx will not run.
+
 # Supported languages?
 The current version of Completo Dx is only in Spanish (Chilean). Soon i'll be adding another languages (english, japanese, neutral spanish).
 
