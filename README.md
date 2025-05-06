@@ -15,3 +15,6 @@ Windows (7 or above), internet connection. Also, you need to manually download f
 
 # Why the name?
 There's nothing more chileand than a Completo. Completo is a king of hot-dog but made with more ingredients and love. It's for lunch, breakfast, dinner. You can eat a Completo in everytime, eveywhere, when you sad or happy. A completo is part of the life of any chileand in Chile or overseas, that's is why I put "completo dx" as name of this software.
+
+#Can i support the person behind CdX? 
+Yes, only if you want to do it, visit https://ko-fi.com/gatonaranja. Remember that this software is free, with no technical support or warranty. It's also not intended for any improper use. I use it to download backup copies of my streams and avoid viruses on common online video download services. This software is simply a graphical user interface (GUI) created in VB6 for YT-DLP and FFMPEG.
